@@ -1,0 +1,19 @@
+# Ignore Python environment
+backend/env/
+__pycache__/
+
+# Node modules
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+frontend/build/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Env files
+.env
